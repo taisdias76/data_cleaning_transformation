@@ -21,6 +21,7 @@ The project involves the following steps:
 
 * fifa_2021_dataset.csv: The raw dataset file in CSV format.
 * data_cleaning_and_transformation.ipynb: A Jupyter Notebook containing the Python code for data cleaning and transformation.
+* data_cleaned.csv: The cleaned dataset file in CSV format, ready for further analysis.
 
 ### Credits
 
