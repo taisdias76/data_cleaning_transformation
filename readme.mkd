@@ -1,0 +1,27 @@
+## Data Cleaning and Transformation Project: FIFA 2021 Dataset
+
+### FIFA 2021
+
+This is a Data Cleaning and Transformation project that focuses on processing the FIFA 2021 dataset using Python. The project aims to clean the data, handle missing values, perform data type conversions, and transform the dataset for better analysis and insights.
+
+### Dataset Description
+
+The FIFA 2021 dataset is sourced from Kaggle and contains detailed information about players in the FIFA 2021 video game. It comprises 18979 rows and 77 columns, providing data on players' ratings, age, nationality, playing positions, club affiliations, contracts, height, weight, values, wages, and more.
+
+### Project Overview
+
+The project involves the following steps:
+
+1. Data Loading: The FIFA 2021 dataset is provided in a CSV file, which we load into a Pandas DataFrame for analysis using Python.
+2. Data Exploration: We explore the dataset to gain an initial understanding of its structure, identify potential issues, and assess data quality.
+3. Data Cleaning: This step involves identifying and addressing errors, inconsistencies, missing values, and discrepancies in the dataset.
+4. Data Transformation: We perform data type conversions and standardize certain columns for easier analysis and visualization.
+
+### Files in the Repository
+
+* fifa_2021_dataset.csv: The raw dataset file in CSV format.
+* data_cleaning_and_transformation.ipynb: A Jupyter Notebook containing the Python code for data cleaning and transformation.
+
+### Credits
+
+The FIFA 2021 dataset used in this project is sourced from Kaggle, and credit goes to the original data provider and the Kaggle community.
